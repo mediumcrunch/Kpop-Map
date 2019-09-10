@@ -1,0 +1,28 @@
+{
+	"Mamamoo": [
+		{
+			"name": "Solar",
+			"birthplace": "Gangseo District, Seoul, South Korea",
+			"lat": 37.5635298,
+			"lon": 126.8148225
+		},
+		{
+			"name": "Moonbyul",
+			"birthplace": "Bucheon, Gyeonggi-do, South Korea",
+			"lat": 37.5043632,
+			"lon": 126.7858783
+		},
+		{
+			"name": "Hweein",
+			"birthplace": "Jeonju, North Jeolla, South Korea",
+			"lat": 35.8281562,
+			"lon": 127.1153631
+		},
+		{
+			"name": "Hwasa",
+			"birthplace": "Jeonju, Jeollabuk-do, South Korea",
+			"lat": 35.8280298,
+			"lon": 127.1144268
+		}
+	]
+}
